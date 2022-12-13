@@ -1,3 +1,3 @@
 # Bankist
-manage your money smart
-<a href="https://theabdlz7.github.io/Bankist/">Live Demo</a> 
+Manage your money smart
+To use enter {id: aj, password: 1111}
